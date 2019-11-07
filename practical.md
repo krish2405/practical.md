@@ -21,15 +21,15 @@ HELLO TO BUDDING ENGINEERS
 #include<stdio.h>
 int main()
 {
-puts("DAWINDER SINGH \n CSE A1\n 1915019\n\VPO CHAMINDA LUDHIana"};
+puts("KISHLAY KUMAR \n CSE A2\n 1915044\n\VPO Nehusa,Nalanda,803110"};
 return 0;
 ``` 
 output of programs 
 ```C
-DAWINDER SINGH 
-CSE A1
-1915019
-VPO CHAMINDA LUDHIANA
+KISHLAY KUMAR
+CSE A2
+1915044
+VPO Nehusa,Nalanda,803110
 ```
 # 3.programs to find the sum of two number .
 ```C
